@@ -55,7 +55,7 @@ header {
   background-color: var(--bg-h);
   text-align: center;
 
-  background-image: url(../assets/space-cream.svg);
+  background-image: url(../assets/space-cream.png);
   background-repeat: no-repeat;
   background-position: 50% 15%;
 
@@ -116,6 +116,8 @@ figure {
 }
 figure img {
   width: 100%;
+
+  border-radius: 2rem;
 }
 figcaption {
   position: absolute;
