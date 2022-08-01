@@ -160,6 +160,17 @@ li a:focus {
 
 
 
+/* Layout Grid */
+.grid {
+  width: 100%;
+  padding: 5rem;
+}
+.grid ul li a {
+  background-image: url(../assets/layout-grid.png);
+}
+
+
+
 /* Redes Sociais ----------------------------->>>>>>>>>>>>>>>>>>>>>>> */
 .socials {
   position: fixed;
