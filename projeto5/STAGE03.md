@@ -13,3 +13,6 @@ O Flex trabalha com apenas uam direção.
 
 # Grid Templete Columns:
 px, %, fr
+
+
+# CLAMP function

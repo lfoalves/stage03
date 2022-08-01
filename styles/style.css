@@ -80,6 +80,7 @@ li a {
 }
 li a {
   background-size: 100%;
+  background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
 }
@@ -167,6 +168,17 @@ li a:focus {
 }
 .grid ul li a {
   background-image: url(../assets/layout-grid.png);
+}
+
+
+
+/* Space Cream ------------------------------->>>>>>>>>>>>>>>>>>>>>>> */
+.space-cream {
+  width: 100%;
+  padding: 5rem;
+}
+.space-cream ul li a {
+  background-image: url(../assets/layout_space-cream_mobile.png);
 }
 
 
